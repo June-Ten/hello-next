@@ -10,7 +10,7 @@ export default function Home() {
           Get started by editing&nbsp;
           <code className="font-mono font-bold">src/app/page.tsx</code>
           <Button>Press me测试jenkins</Button>
-          <Button>Press me测试移除镜像</Button>
+          <Button>nginx配置不缓存</Button>
         </p>
         <div className="fixed bottom-0 left-0 flex h-48 w-full items-end justify-center bg-gradient-to-t from-white via-white dark:from-black dark:via-black lg:static lg:size-auto lg:bg-none">
           <a
